@@ -14,13 +14,16 @@ using namespace std;
 
 
 void solve() {
-
+    string str;
+    cin >> str;
+    cout << str << endl;
 }
 
 
 // END Code
 int main() {
     FAST_INPUT_OUTPUT;
+    freopen("./input_data.txt", "r", stdin);
     solve();
     return 0;
 }
