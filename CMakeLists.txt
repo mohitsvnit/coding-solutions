@@ -3,4 +3,4 @@ project(coding)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(coding bellman_ford.cpp)
+add_executable(coding paths_to_origin.cpp)
