@@ -3,4 +3,4 @@ project(coding)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(coding skip_the_work.cpp)
+add_executable(coding shortest_common_supersequence.cpp)

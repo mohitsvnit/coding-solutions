@@ -1,9 +1,4 @@
-4
-4
-10 5 7 10
-6
-5 6 7 8 9 10
-2
-10 20
-5
-22 10 15 3 5
+3
+abcd xycd
+efgh jghi
+abcghdf acbgdhf
