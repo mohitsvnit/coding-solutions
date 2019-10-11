@@ -3,4 +3,4 @@ project(coding)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(coding shortest_common_supersequence.cpp)
+add_executable(coding get_minimum_square.cpp)

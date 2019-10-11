@@ -1,4 +1,4 @@
 3
-abcd xycd
-efgh jghi
-abcghdf acbgdhf
+13
+78
+9384
