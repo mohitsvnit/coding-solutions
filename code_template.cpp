@@ -7,7 +7,7 @@
 #include <cmath>
 #include <cstring>
 #include <stack>
-#include <limits>
+#include <limits.h>
 using namespace std;
 #define FAST_INPUT_OUTPUT ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 

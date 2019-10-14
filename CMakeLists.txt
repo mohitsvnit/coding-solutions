@@ -3,4 +3,4 @@ project(coding)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(coding get_minimum_square.cpp)
+add_executable(coding minimum_number_of_coins.cpp)
