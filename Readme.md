@@ -1,1 +1,1 @@
-This repo contains some algorithmic solutions
+This repo contains some algorithmic solution
